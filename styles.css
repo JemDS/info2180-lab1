@@ -11,3 +11,10 @@ h2{
 p{
 	font-size: 18px;
 }
+
+img{
+	width:250px;
+	height:300px;
+	border: 2px solid powderblue;
+	padding: 10px;
+}
